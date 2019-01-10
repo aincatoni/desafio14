@@ -1,0 +1,37 @@
+body
+{
+
+  background: #D4D4D4;
+
+}
+
+.general {
+  padding: 20px;
+}
+
+
+.eliminar {
+
+  position: absolute;
+  right: 20px;
+  z-index: 1;
+}
+
+.demo_tweet {
+  padding: 10px;
+
+  background-color: azure;
+  display: none;
+}
+
+.like {
+
+  z-index: 2  ;
+  position: absolute;
+  left: 0;
+}
+
+.like--rojo {
+
+  color: red;
+}
